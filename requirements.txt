@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+scikit-learn
+numpy
+nltk
+fuzzywuzzy
+requests
+beautifulsoup4
+python-Levenshtein
